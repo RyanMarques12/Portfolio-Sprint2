@@ -56,3 +56,7 @@ img {
   width: 200px;
   height: 100px;
 }
+
+table {
+  border-spacing: 30px;
+}
